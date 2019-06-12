@@ -1,0 +1,2 @@
+# Ignore libre office lock files
+*.~lock.*

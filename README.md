@@ -34,8 +34,7 @@ So if you like this Trading Journal feel free to donate (any amount) to help me 
 
 - Bitcoin: 1G2J5DwfGFfBJbreLJrymTA5NXHu4Pya6i
 - Etherium: 0xEbc563324d69448E2F039deDA838c3a8873B2d3B
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/WilliamArsac)
+- PayPal: [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/WilliamArsac)
 
 ## Current features
 - Transaction logging IN and OUT

@@ -1,7 +1,7 @@
 # Trading Journal
 
 ## Foreword
->> synonym of Trading Log
+> synonym of Trading Log
 
 This is the spreadsheet I use personally to keep track of my trades. You are welcome to use it and moreover contribute to it. Afterall, I'm not a spreadsheet PRO at all so there are a couple of functionalities I would love to see/add in this file but lack the knowledge to do so in spreadsheets.
 
@@ -14,9 +14,9 @@ Honestly feel free to contribute or at least suggest features I might not have t
 Coming soon
 
 ## Note:
-If you intend on using this spreadsheet use the latest one tagged in the "release" section. The repository state may be work-in-progress and thus contain testing data as well as bugs.
+If you intend on using this spreadsheet, use the latest one tagged in the "release" section. The repository state may be work-in-progress and thus contain testing data as well as bugs.
 
-## Pricing
+## Donations
 
 It is **completely free** to use. 
 
@@ -32,9 +32,12 @@ Furthermore I hope someday to find enough time to create a separate program, pro
 
 So if you like this Trading Journal feel free to donate (any amount) to help me improve it and some day make a separate program out of it:
 
- // no donate links yet, maybe one day if I feel like setting it up
+- Bitcoin: 1G2J5DwfGFfBJbreLJrymTA5NXHu4Pya6i
+- Etherium: 0xEbc563324d69448E2F039deDA838c3a8873B2d3B
 
-## Features already implemented
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/WilliamArsac)
+
+## Current features
 - Transaction logging IN and OUT
 - Position opening strategy and notes/self-critisism
 - P&L Statistics:
@@ -45,7 +48,7 @@ So if you like this Trading Journal feel free to donate (any amount) to help me 
 - Calculators:
 	- Position sizing based on risk and stoploss
 
-## Features I'd like to see in the future
+## Features to come
 
 - Position duration statistics
 - Average price calculation

@@ -13,7 +13,7 @@ Honestly feel free to contribute or at least suggest features I might not have t
 
 Coming soon
 
-## Note:
+## Note
 If you intend on using this spreadsheet, use the latest one tagged in the "release" section. The repository state may be work-in-progress and thus contain testing data as well as bugs.
 
 ## Donations

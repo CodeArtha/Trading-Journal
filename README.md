@@ -1,7 +1,6 @@
-# Trading Journal
+# Trading Log
 
 ## Foreword
-> synonym of Trading Log
 
 This is the spreadsheet I use personally to keep track of my trades. You are welcome to use it and moreover contribute to it. Afterall, I'm not a spreadsheet PRO at all so there are a couple of functionalities I would love to see/add in this file but lack the knowledge to do so in spreadsheets.
 
@@ -27,8 +26,8 @@ None of them have a feature that I desperately need and could not implement myse
 
 That's why I made this one free to use!
 
-However, I did spend quite a few hours creating it at first and then maintaining, adding new features and such take some time. 
-Furthermore I hope someday to find enough time to create a separate program, probably in python or javascript because like I said, there are some features I have no idea how to implement in a spreadsheet even though they would be easy to implement otherwise.
+However, I did spend quite a few hours creating it. Maintaining it, adding new features and such also takes time. 
+Furthermore I hope someday to find enough time to create a separate program, probably in python, because like I said there are some features I have no idea how to implement in a spreadsheet even though they would be easy to implement otherwise.
 
 So if you like this Trading Journal feel free to donate (any amount) to help me improve it and some day make a separate program out of it:
 
@@ -37,13 +36,17 @@ So if you like this Trading Journal feel free to donate (any amount) to help me 
 - PayPal: [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/WilliamArsac)
 
 ## Current features
+- A separate sheet for DayTrading and SwingTrading with features relevant to each style
 - Transaction logging IN and OUT
 - Position opening strategy and notes/self-critisism
 - P&L Statistics:
 	- Global P&L
 	- P&L by trade direction
-	- P&L by day of week
+	- stats by day of week
 	- P&L ratio
+	- Sharpe ratio
+	- R ratio
+	- Batting Average
 - Calculators:
 	- Position sizing based on risk and stoploss
 

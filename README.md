@@ -47,8 +47,11 @@ So if you like this Trading Journal feel free to donate (any amount) to help me 
 	- Sharpe ratio
 	- R ratio
 	- Batting Average
+	- Strategy used statistics
 - Calculators:
 	- Position sizing based on risk and stoploss
+- Update available notice
+
 
 ## Features to come
 
@@ -58,5 +61,5 @@ So if you like this Trading Journal feel free to donate (any amount) to help me 
 	- Account gross value
 	- Daily performance
 	- Weekly performance
-- Update available notice
+
 

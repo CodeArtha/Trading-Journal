@@ -1,0 +1,9 @@
+[submodule "longterm-portfolio-reblancing"]
+	path = longterm-portfolio-reblancing
+	url = git@github.com:CodeArtha/longterm-portfolio-reblancing.git
+[submodule "swing-trading-journal"]
+	path = swing-trading-journal
+	url = git@github.com:CodeArtha/swing-trading-journal.git
+[submodule "day-trading-journal"]
+	path = day-trading-journal
+	url = git@github.com:CodeArtha/day-trading-journal.git

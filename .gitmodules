@@ -4,6 +4,13 @@
 [submodule "swing-trading-journal"]
 	path = swing-trading-journal
 	url = git@github.com:CodeArtha/swing-trading-journal.git
+	update = rebase
+	branch = master
 [submodule "day-trading-journal"]
 	path = day-trading-journal
 	url = git@github.com:CodeArtha/day-trading-journal.git
+	update = rebase
+	branch = master
+[submodule "longterm-porfolio-rebalancing"]
+	update = rebase
+	branch = master
